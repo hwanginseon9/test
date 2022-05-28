@@ -52,3 +52,4 @@ for list in a.showList:
     print(list)
     i+=1
     print(i)
+#우왕테스트한당
